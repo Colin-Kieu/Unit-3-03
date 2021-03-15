@@ -1,6 +1,6 @@
 .cat {
-width: 15%;
-float: left;
+  width: 15%;
+  float: left;
 }
 
 .dog {
@@ -14,12 +14,12 @@ float: left;
 }
 
 .heading {
-position: fixed;
-text-align: center;
-left: 10%;
-color: red;
+  position: fixed;
+  text-align: center;
+  left: 10%;
+  color: crimson;
 }
 
 .text {
-color: skyblue;
+  color: skyblue;
 }
