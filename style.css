@@ -1,0 +1,25 @@
+.cat {
+width: 15%;
+float: left;
+}
+
+.dog {
+  width: 25%;
+  margin-left: 25%;
+}
+
+.nature {
+  height: 2000px;
+  width: 500px;
+}
+
+.heading {
+position: fixed;
+text-align: center;
+left: 10%;
+color: red;
+}
+
+.text {
+color: skyblue;
+}
